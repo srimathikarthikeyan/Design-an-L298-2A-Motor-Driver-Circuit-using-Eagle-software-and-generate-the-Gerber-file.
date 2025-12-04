@@ -19,7 +19,7 @@ o	Label the nets clearly to maintain clarity and organization in your design.<br
 	Check for Errors:<br>
 o	Once the schematic design is complete, perform an Electrical Rule Check (ERC) to identify and correct any errors.<br>
 o	Save the schematic after confirming that no errors are present.<br>
-	Switch to Board Layout:<br>
+	Switch to Board Layout:<br> 
 o	Click on the 'Generate/Switch to Board' button to create the PCB layout from the schematic.<br>
 	Arrange Components and Route Traces:<br>
 o	In the board layout editor, arrange the components to optimize space and reduce signal interference.<br>
@@ -69,8 +69,12 @@ o	When both inputs are the same, the motor stops.<br>
 
 # EXPECTED OUTPUT:
 ### Schematic diagram
+
+<img width="1065" height="549" alt="image" src="https://github.com/user-attachments/assets/18fec3db-6293-4270-b851-c1dd2fa0f6d2" />
  
 ### Layout diagram
- 
+
+ <img width="1918" height="990" alt="image" src="https://github.com/user-attachments/assets/770ffc6e-a65b-4610-b2c1-11d526c17c4d" />
+
 # RESULT:
 Thus, the schematic and PCB layout for the L298 2A Motor Driver Circuit has been successfully designed using Eagle software.
